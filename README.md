@@ -47,10 +47,3 @@ Aplikasi ini adalah sebuah sistem sederhana untuk mengelola daftar kegiatan yang
 5. Konfigurasi koneksi ke database dengan mengubah informasi di file `koneksi/koneksi.php`.
 
 6. Buka aplikasi melalui web browser dengan mengakses `http://localhost/nama_folder_aplikasi`.
-
-## Kontribusi
-
-Jika Anda ingin berkontribusi untuk meningkatkan aplikasi ini, silakan melakukan pull request dan kami akan dengan senang hati melihatnya.
-
-
-Dibuat dengan ❤️ oleh dindarosalin
